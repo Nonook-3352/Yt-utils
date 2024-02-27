@@ -1,7 +1,7 @@
 # Yt-utils
 Tools for Youtube with Python
 
-## MP3 donwnload tool:
+## MP3 download tool:
 
 ### List usage:
 - Copy all the urls you want to download in the urls.txt
